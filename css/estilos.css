@@ -9,8 +9,15 @@
 
 .Fuente-General
 {
-    font-size: large;
+    font-size: 13px;
+    text-align: justify;
+
+}
+.Fuente-Titulos
+{
+    font-size: 18px;
     text-align: center;
+    font-weight: bold;
 }
 
 .Images-Carrusel{
