@@ -7,14 +7,20 @@
     text-align: center;
 }
 
-.Images-Tree{
-    width: 100%;
-    height: 234px;
+.Fuente-General
+{
+    font-size: large;
+    text-align: center;
 }
 
-.Images-Main{
+.Images-Carrusel{
     width: 100%; 
     height: 200px;
+}
+
+.Contenedor-Alto{
+    width: 100%; 
+    height: 234px;
 }
 
 .Nav-Menu{
