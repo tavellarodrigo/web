@@ -44,3 +44,10 @@
     text-align: left;
 
 }
+
+.Fuente-Titulos-Cards
+{
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+}
