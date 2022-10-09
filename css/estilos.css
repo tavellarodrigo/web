@@ -87,12 +87,7 @@
 .card-botones{
     height: 30px;
     width: 80px;
-    margin-bottom: 5px;
-    /* bottom: 10px; */
-    /* left: 10px; */
-    /* position: relative; */
-    /* display: inline-flex; */   
-    
+    margin-bottom: 5px;    
 }
 
 .cards-margenes{
@@ -127,38 +122,21 @@
 
 /* contenedores */
 .containers-principal{
-   /* margin-left: 30px;
-    margin-right: 30px;
-    padding-left: 30px;
-    padding-right: 30px;*/
     margin-top: 2px;       
 }
 
 .containers-footer{
- /*   margin-left: 100px;
-    margin-right: 0px;
-    padding-left: 50px;
-    padding-right: 0px;*/
     margin-top: 50px;
     
 }
 
 .containers-footer-contacto{
-    margin-left: 120px;
-    margin-right: 0px;
-    padding-left: 0px;
-    padding-right: 115px;
+    
     margin-top: 5px;   
     
 }
 .containers-footer-contacto2{
-    margin-left: 5px;
-    margin-right: -30px;
+    
     margin-top: 5px;       
     
 }
-/* 
-.card-body {
-    display: flex;
-    flex-direction: column;
-  } */
